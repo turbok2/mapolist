@@ -1,0 +1,11 @@
+{
+  "name": "mapolist",
+  "version": "1.0.0",
+  "description": "게시판을 시험삼아 만들어 본다.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "turbok2@nate.com",
+  "license": "ISC"
+}
